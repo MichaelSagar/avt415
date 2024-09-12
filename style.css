@@ -11,7 +11,6 @@ body {
   margin: 0 auto;
   color: #fff1d4;
   max-width: 50em;
-  font-family: ";
   line-height: 1.5;
   padding: 4em 1em;
   background: #ff9085;
@@ -21,7 +20,7 @@ a {
   color: #e81c4f;
 }
 p {
-  font-family: "Roboto";
+  font-family: "Calibri";
   margin-top: 0.5em;
   color: #555;
   padding-top: 0.5em;
@@ -38,10 +37,18 @@ h3 {
   color: #333;
 }
 
-<!-- The paragraph stuff -->
+/* The paragraph stuff*/
 
 strong {
   color: #333;
 }
-<!-- Above is color of h2 and h3, it changes if the commment is above it and I don't know why -->
 
+
+a:link, a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  color: #f7ecb7;
+  text-decoration: none;
+}

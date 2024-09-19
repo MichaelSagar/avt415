@@ -1,0 +1,42 @@
+body {
+  background-color: greenyellow;
+}
+
+h1 {
+  font-family: sans-serif;
+  font-size: 60px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color:white;
+  text-align: center;
+  margin-top: 45vh;
+/*  proportional to width*/
+}
+
+
+
+@media screen and (min-width: 768px){
+/*styles for screen sizes 768px and above (changes the color to the one below above 768px)*/
+/*if it was max-width this part would be for the smaller version*/
+  body{
+    background-color: blueviolet;
+  }
+    h1 {
+    font-size: 100px;
+    color:black;
+    margin-top: 35vh;
+  /*  proportional to width*/
+}
+}
+
+@media screen and (min-width: 600px){
+  body{
+    background-color: goldenrod;
+  }
+}
+
+@media screen and (min-width: 780px){
+  body{
+    background-color: red;
+  }
+}

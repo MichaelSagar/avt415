@@ -1,0 +1,25 @@
+ren:
+
+- out of school/work/hobbies/etc, most issues lie in
+personal life, like needing sleep
+- the things that take the most time out of sleep is work (getting up early) and school/studying (homework)
+= to give more time for sleep, would take more time out
+of school than work
+- a lot of studio classwork, lots of projects = time consuming
+- mostly digital schoolwork
+- making project drafts, specifically choosing fonts takes a while.
+
+problem statement:
+Create a hat that simplifies the process of choosing fonts while designing.
+
+
+
+
+
+
+
+
+hat kinda has a camera which scans the project you're 
+working on, and on a little screen suggests typefaces 
+and maybe provides them as previews with a picture
+it takes
